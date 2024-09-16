@@ -1,6 +1,6 @@
 import csv
 
-# create log to csv function
+# create log to csv function.
 def log_to_csv(filename, data): #function accepts input of filename or the data
   # with makes sure that the file cloess later
   # mode = a is append mode which adds text to the end of the file. 
