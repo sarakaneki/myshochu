@@ -33,7 +33,7 @@ def main():
     # Create a list with the input data
     data = [shochu_name, rating, comment]
 
-    # Log the data into the CSV
+    # Log the data into the CSV file
     log_to_csv(filename, data)
     
     print(f"{data}　を入力しました。")
