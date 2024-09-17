@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **basic programming (Python), and Python frameworks.**
 
-- 📫 How to reach me **sarasj0410@gmail.com**
+- 📫 Reach me from my LinkedIn profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
