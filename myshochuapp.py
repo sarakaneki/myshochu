@@ -76,7 +76,7 @@ def get_name():
 def get_comment():
     while True:
         comment = input("感想を入れてください：　").strip()
-        if commentlower == "exit":
+        if comment.lower == "exit":
             print("プログラムを終了します。")
             return None
         # Check if the input is not empty and doesn't consist of only numbers.
